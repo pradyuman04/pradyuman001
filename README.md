@@ -24,16 +24,11 @@
 <br/>
 <br/>
 
-
 <a href="https://github.com/pradyuman001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&theme=light&hide_langs_below=1" />
 </a>
 
-
 <br/>
 <br/>
-                                                                                   
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&langs_count=5&theme=tokyonight)]
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pradyuman001&theme=react-dark)](https://github.com/pradyuman001/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pradyuman001&theme=react-dark)]
