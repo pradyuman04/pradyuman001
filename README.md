@@ -22,7 +22,7 @@
       margin="15px"/>
 </a>
 
-📌 ***Most Use Language**
+📌 ***Most Use Language***
                                                                                    
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&langs_count=5&theme=tokyonight)]()
