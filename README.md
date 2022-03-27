@@ -31,4 +31,4 @@
 <br/>
 <br/>
 
-[Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pradyuman001&theme=react-dark)
+[![Pradyuman's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshil048&theme=react-dark)](https://github.com/harshil048/github-readme-activity-graph)
