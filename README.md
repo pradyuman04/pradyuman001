@@ -18,13 +18,12 @@
 <br/>
 
 <a href="https://github.com/pradyuman001">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&theme=black&line_height=27" alt="Pradyuman's github stats"
-      margin="15px"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&theme=black&line_height=27" alt="Pradyuman's github stats"/>
 </a>
 
 📌 ***Most Use Language***
                                                                                    
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&langs_count=5&theme=tokyonight)](alt="Pradyuman's github stats")
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pradyuman001&theme=react-dark)](https://github.com/pradyuman001/github-readme-activity-graph)
