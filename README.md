@@ -1,4 +1,4 @@
-### Hi, I Am Pradyuman Godhani 👋
+### Hi, I Am [Pradyuman Godhani!](https://github.com/pradyuman001) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyuman001&label=Views&color=blue&style=plastic" alt="pradyuman001" /> </p>
 
@@ -24,6 +24,6 @@
 📌 ***Most Use Language***
                                                                                    
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&langs_count=5&theme=tokyonight)]<alt="https://github.com/pradyuman001">
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&langs_count=5&theme=tokyonight)]
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pradyuman001&theme=react-dark)](https://github.com/pradyuman001/github-readme-activity-graph)
