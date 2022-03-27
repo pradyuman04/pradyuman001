@@ -24,6 +24,6 @@
 📌 ***Most Use Language***
                                                                                    
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&langs_count=5&theme=tokyonight)](alt="https://github.com/pradyuman001")
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&langs_count=5&theme=tokyonight)]<alt="https://github.com/pradyuman001">
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pradyuman001&theme=react-dark)](https://github.com/pradyuman001/github-readme-activity-graph)
