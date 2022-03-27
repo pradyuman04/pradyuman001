@@ -1,6 +1,8 @@
-### Hello, I Am Pradyuman Godhani 👋
+### Hi, I Am Pradyuman Godhani 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyuman001&label=Views&color=blue&style=plastic" alt="pradyuman001" /> </p>
+
+📌 ***YOU CAN FIND ME HERE***👇
 
 <a href="https://twitter.com/Pradyuman001">
   <img align="left" alt="Pradyuman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
