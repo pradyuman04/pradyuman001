@@ -17,6 +17,7 @@
 
 <a href="https://github.com/pradyuman001">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&theme=black&line_height=27" alt="Pradyuman's github stats"/>
+  <padding = "10px">
 </a>
 
 
