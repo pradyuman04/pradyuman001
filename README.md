@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyuman001&label=Views&color=blue&style=plastic" alt="pradyuman001" /> </p>
 
-📌 ***YOU CAN FIND ME HERE***👇
+📌 ***You Can Find Me Here***👇
 
 <a href="https://twitter.com/Pradyuman001">
   <img align="left" alt="Pradyuman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -22,7 +22,7 @@
       margin="15px"/>
 </a>
 
-📌 ***YOU CAN FIND ME HERE***👇
+📌 ***Most Use Language**
                                                                                    
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&langs_count=5&theme=tokyonight)]()
