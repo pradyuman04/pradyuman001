@@ -1,4 +1,6 @@
-### Hi, I Am [Pradyuman Godhani!](https://github.com/pradyuman001) 👋
+<h1 align="center">Hi 👋, I'm Durgesh Mishra</h1>
+<h3 align="center">A Passionate Android Developer From India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyuman001&label=Views&color=blue&style=plastic" alt="pradyuman001" /> </p>
 
