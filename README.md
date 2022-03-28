@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradyuman Godhani</h1>
 <h3 align="center">A Enthusiastic Android Developer</h3>
 <br/>
-<img align="right" alt="Coding" width="400" src="https://www.datarhine.com/images/coming.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyuman001&label=Views&color=blue&style=plastic" alt="pradyuman001" /> </p>
 
