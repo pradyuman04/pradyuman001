@@ -43,11 +43,9 @@
   <a href="https://github.com/pradyuman001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&theme=light&hide_langs_below=1" />
     <br/>
-</a>
- 
-  <br/>
+    <br/>
+</a>  
   
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&locale=en" alt="pradyuman001" /></p>
 <br/>
 <br/>
