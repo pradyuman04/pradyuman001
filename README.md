@@ -42,24 +42,16 @@
   <br/>
   <a href="https://github.com/pradyuman001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&theme=light&hide_langs_below=1" />
+    <br/>
 </a>
  
   <br/>
+  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&locale=en" alt="pradyuman001" /></p>
 <br/>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyuman001&" alt="pradyuman001" /></p>
-
-
-<a href="https://github.com/pradyuman001">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&theme=black&line_height=27" alt="Pradyuman's github stats"/>
-</a>
-
-<br/>
-<br/>
-
-
 
 <br/>
 <br/>
