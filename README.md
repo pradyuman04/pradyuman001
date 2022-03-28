@@ -14,6 +14,7 @@
 - ⚡ Fun fact **Let's Do Some work**
 
 <br/>
+
 📌 ***You Can Find Me Here***👇
 
 <a href="https://twitter.com/Pradyuman001">
@@ -40,6 +41,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&theme=light&hide_langs_below=1" />
     <br/>
   </a>
+  
+  <br/>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&locale=en" alt="pradyuman001" /></p>
 <br/>
