@@ -4,6 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyuman001&label=Views&color=blue&style=plastic" alt="pradyuman001" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyuman001&label=Profile%20views&color=0e75b6&style=flat" alt="pradyuman001" /> </p>
+
+- 🌱 I’m currently learning **Core Android**
+
+- 💬 Ask me about **Android**
+
+- 📫 How to reach me **pradyumangodhani007@gmail.com**
+
+- ⚡ Fun fact **Let's Do Some work**
+
 📌 ***You Can Find Me Here***👇
 
 <a href="https://twitter.com/Pradyuman001">
