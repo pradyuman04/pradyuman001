@@ -36,6 +36,13 @@
   
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  
+  
+  <br/>
+  <br/>
+  <a href="https://github.com/pradyuman001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&theme=light&hide_langs_below=1" />
+</a>
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&locale=en" alt="pradyuman001" /></p>
@@ -51,9 +58,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/pradyuman001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&theme=light&hide_langs_below=1" />
-</a>
+
 
 <br/>
 <br/>
