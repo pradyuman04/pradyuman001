@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyuman001&label=Views&color=blue&style=plastic" alt="pradyuman001" /> </p>
 
-- 🌱 I’m currently learning **Core Android**
+- 🌱 I’m currently learning **Advance Android**
 
 - 💬 Ask me about **Android**
 
