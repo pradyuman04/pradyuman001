@@ -30,8 +30,6 @@
 </a>
 
 <br/>
-
-
   
   <br/>
   <a href="https://github.com/pradyuman001">
@@ -39,21 +37,16 @@
     <br/>
   </a>
   
-  <br/>
+  ## GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyuman001&theme=vue" />
+</p>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&locale=en" alt="pradyuman001" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyuman001&" alt="pradyuman001" /></p>
-<br/>
-  
+
   ## Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradyuman001&theme=radical"/>
 </p>
 
-## GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyuman001&theme=vue" />
-</p>
 	
