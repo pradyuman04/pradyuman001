@@ -31,10 +31,7 @@
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+
   
   <br/>
   <a href="https://github.com/pradyuman001">
@@ -49,15 +46,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyuman001&" alt="pradyuman001" /></p>
 <br/>
   
-  ## 💳 Github Profile Summary Card
+  ## Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradyuman001&theme=radical"/>
 </p>
 
-## 📟 GitHub Stats
+## GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyuman001&theme=vue" />
 </p>
 	
-[![pradyuman001's github activity graph](https://activity-graph.herokuapp.com/graph?username=pradyuman001&theme=react-dark)](https://github.com/pradyuman001/github-readme-activity-graph)
