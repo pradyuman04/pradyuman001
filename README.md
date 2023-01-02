@@ -33,14 +33,16 @@
   
   <br/>
   <a href="https://github.com/pradyuman001">
+	<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman001&theme=light&hide_langs_below=1" />
     <br/>
+	</p>
   </a>
   
   ## GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyuman001&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pradyuman001&show_icons=true&theme=radical" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyuman001&theme=radical" />
 </p>
   
 
