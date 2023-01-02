@@ -3,7 +3,7 @@
 <br/>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyuman001&label=Views&color=blue&style=plastic" alt="pradyuman001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyuman001&label=Views&color=blue&style=plastic&style=for-the-badge" alt="pradyuman001" /> </p>
 
 - 🌱 I’m currently learning **Advance Android**
 
